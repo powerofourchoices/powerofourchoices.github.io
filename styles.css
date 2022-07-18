@@ -60,8 +60,7 @@ p.quote {
     text-align: center;
 }
 p {
-    text-align: justify;
-    text-justify: inter-character;
+    text-align: left;
 }
 footer {
     height: 15%;
