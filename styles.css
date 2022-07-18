@@ -40,14 +40,14 @@ nav li a:hover, nav li.acurrent {
 figure {
     float: left;
     width: 21%;
-    height: 16;
+    height: 16%;
     padding: 5px;
     margin: 20px;
     border: 3px solid #ffffff;
 }
 img {
-    width:21;
-    height:16;
+    max-width: 21%;
+    height: 16%;
 }
 p.quote {
     font-family: Kunstler Script, Monotype Corsiva, cursive;
