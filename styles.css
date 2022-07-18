@@ -12,11 +12,11 @@ body {
 header {
     height: 10%;
     width: 100%;
-    background-color: #2E2D2A;
+    background-color: #48443e;
     margin: 0px;
 }
 h1 {
-    background-color: #2E2D2A;
+    background-color: #48443e;
     font-family: Kunstler Script, Monotype Corsiva, cursive;
     font-size: 300%;
     margin: 0px;
@@ -58,6 +58,9 @@ p.quote {
     font-family: Kunstler Script, Monotype Corsiva, cursive;
     font-size: 470%;
 }
+p {
+    text-align: justify;
+    text-justify: inter-word;
 footer {
     height: 15%;
     width: auto;
