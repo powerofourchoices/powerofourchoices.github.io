@@ -61,7 +61,7 @@ p.quote {
 }
 p {
     text-align: justify;
-    text-justify: auto;
+    text-justify: inter-character;
 }
 footer {
     height: 15%;
