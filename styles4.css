@@ -1,0 +1,64 @@
+body {
+    min-width: auto;
+    max-width: 100%;
+    color: b1ddc6;
+    background-color: #807260;
+    background-position: center;
+    font-family: Georgia, Times, serif;
+    text-align: center;
+    margin: 0px;
+}
+header {
+    height: 10%;
+    background-color: #48443e;
+    margin: 0px;
+}
+h1 {
+    background-color: #48443e;
+    font-family: Kunstler Script, Monotype Corsiva, cursive;
+    font-size: 650%;
+    margin: 0px;
+}
+nav {
+    clear: both;
+    color: #b1ddc6;
+}
+nav ul {
+    margin: 0px;
+}
+nav li {
+    display: inline;
+    margin-right: 3%;
+}
+nav li a {
+    color: #ffffff;
+}
+nav li a:hover, nav li.acurrent {
+    color: #000000;
+}
+figure {
+    float: left;
+    width: 34.5%;
+    height: 45%;
+    padding: 5px;
+    margin: 20px;
+    border: 3px solid #ffffff;
+}
+p.quote {
+    font-family: Kunstler Script, Monotype Corsiva, cursive;
+    font-size: 500%;
+}
+footer {
+    height: 15%;
+    width: auto;
+    color: #ffffff;
+    background-color: #48443e;
+    clear: both;
+}
+
+
+
+
+
+
+
