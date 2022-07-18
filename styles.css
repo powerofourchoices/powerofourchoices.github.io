@@ -6,7 +6,7 @@ body {
     background-position: center;
     font-family: Georgia, Times, serif;
     text-align: center;
-    text-justify: inter-word;
+    text-justify: auto;
     margin: 0px;
 }
 header {
@@ -60,7 +60,7 @@ p.quote {
 }
 p {
     text-align: justify;
-    text-justify: inter-word;
+    text-justify: auto;
 footer {
     height: 15%;
     width: auto;
