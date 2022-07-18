@@ -16,7 +16,7 @@ header {
 h1 {
     background-color: #48443e;
     font-family: Kunstler Script, Monotype Corsiva, cursive;
-    font-size: 650%;
+    font-size: 300%;
     margin: 0px;
 }
 nav {
@@ -43,10 +43,6 @@ figure {
     padding: 5px;
     margin: 20px;
     border: 3px solid #ffffff;
-}
-p.quote {
-    font-family: Kunstler Script, Monotype Corsiva, cursive;
-    font-size: 500%;
 }
 footer {
     height: 15%;
