@@ -57,6 +57,7 @@ img {
 p.quote {
     font-family: Kunstler Script, Monotype Corsiva, cursive;
     font-size: 470%;
+    text-align: center;
 }
 p {
     text-align: justify;
