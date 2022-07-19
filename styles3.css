@@ -6,7 +6,7 @@ body {
     background-position: relative;
     font-family: Georgia, Times, serif;
     text-align: center;
-    margin: 0px;
+    margin: 2px;
 }
 header {
     height: 10%;
@@ -54,6 +54,9 @@ img {
 }
 p {
     text-align: left;
+}
+p. name {
+    text-align: center;
 }
 footer {
     height: 15%;
