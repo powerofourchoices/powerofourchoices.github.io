@@ -6,7 +6,7 @@ body {
     background-position: center;
     font-family: Georgia, Times, serif;
     text-align: center;
-    margin: 2px;
+    margin: 0px;
 }
 header {
     height: 10%;
@@ -54,6 +54,7 @@ img {
 }
 p {
     text-align: left;
+    margin: 3px;
 }
 footer {
     height: 15%;

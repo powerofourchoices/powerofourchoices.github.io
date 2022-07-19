@@ -7,7 +7,7 @@ body {
     font-family: Georgia, Times, serif;
     text-align: center;
     text-justify: auto;
-    margin: 2px;
+    margin: 0px;
 }
 header {
     height: 10%;
@@ -61,6 +61,7 @@ p.quote {
 }
 p {
     text-align: left;
+    margin: 3px ;
 }
 footer {
     height: 15%;
