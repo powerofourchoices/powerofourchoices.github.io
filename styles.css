@@ -39,7 +39,7 @@ nav li a:hover, nav li.acurrent {
     color: #000000;
 }
 figure {
-    float: left;
+    float: right;
     min-width: auto;
     max-width: 50%;
     max-height: 35%;
